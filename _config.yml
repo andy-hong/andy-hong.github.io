@@ -21,7 +21,7 @@ repository               : "andy-hong/andy-hong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "andy_profile_round.png"
   name             : "Your Sidebar Name"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
