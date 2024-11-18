@@ -12,12 +12,11 @@ I am an Assistant Professor in the Department of City & Metropolitan Planning at
 
 **Research Interests:** Healthy Cities, Healthy Aging, Age-Friendly Community, Environmental Health, Active Living, Resilient Places
 
----
 
-**Affiliations**
+## Affiliations
 
-Department of City & Metropolitan Planning at Utah:
+* Department of City & Metropolitan Planning at Utah:
 [https://faculty.utah.edu/u6031783-ANDY_HONG](https://faculty.utah.edu/u6031783-ANDY_HONG)
 
-PEAK Urban Program at the University of Oxford:
+* PEAK Urban Program at the University of Oxford:
 [https://www.peak-urban.org/people/andy-hong](https://www.peak-urban.org/people/andy-hong)
