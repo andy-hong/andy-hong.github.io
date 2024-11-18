@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "andy_profile_round.png"
   name             : "Andy Hong"
-  pronouns         : "he/him"  
+  #pronouns         : "he/him"  
   bio              : "Assistant Professor and Director, Healthy Aging and Resilient Places Lab, Department of City & Metropolitan Planning"
   location         : "Salt Lake City, Utah"
   employer         : "University of Utah"
