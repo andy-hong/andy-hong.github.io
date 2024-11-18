@@ -21,7 +21,7 @@ repository               : "andy-hong/andy-hong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "andy_profile_small.jpg"
+  avatar           : "andy_profile_square.jpg"
   name             : "Andy Hong"
   #pronouns         : "he/him"  
   bio              : "Assistant Professor and Director, Healthy Aging and Resilient Places Lab, Department of City & Metropolitan Planning"
