@@ -12,7 +12,10 @@ I am an Assistant Professor in the Department of City & Metropolitan Planning at
 
 **Research Interests:** Healthy Cities, Healthy Aging, Age-Friendly Community, Environmental Health, Active Living, Resilient Places
 
+---
+
 **Affiliations**
+
 Department of City & Metropolitan Planning at Utah:
 [http://plan.cap.utah.edu/?team=andy-hong](http://plan.cap.utah.edu/?team=andy-hong)
 
