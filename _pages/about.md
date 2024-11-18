@@ -17,7 +17,7 @@ I am an Assistant Professor in the Department of City & Metropolitan Planning at
 **Affiliations**
 
 Department of City & Metropolitan Planning at Utah:
-[http://plan.cap.utah.edu/?team=andy-hong](http://plan.cap.utah.edu/?team=andy-hong)
+[https://faculty.utah.edu/u6031783-ANDY_HONG](https://faculty.utah.edu/u6031783-ANDY_HONG)
 
 PEAK Urban Program at the University of Oxford:
 [https://www.peak-urban.org/people/andy-hong](https://www.peak-urban.org/people/andy-hong)
