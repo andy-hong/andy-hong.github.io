@@ -252,6 +252,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _about
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _teaching
   - scope:
       path: ""
