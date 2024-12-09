@@ -19,6 +19,22 @@ body {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
+
+  /* Additional style for two column document */
+
+  box-sizing: border-box;
+
+  &.column {
+    float: left;
+    width: 50%;
+    }
+  
+  &.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  }
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -315,16 +331,4 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 
 
-/* Additional style for two column document */
-
-column {
-  float: left;
-  width: 50%;
-}
-  
-row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
 
